@@ -1,6 +1,6 @@
-//public class HelloWorld {
-//public static void main(String[] args) {
-//    HelloWorldClass helloWorldObject = new HelloWorldClass();
-//    helloWorldObject.helloWorldMethod();
-//}
-//}
+public class HelloWorld {
+public static void main(String[] args) {
+    HelloWorldClass helloWorldObject = new HelloWorldClass();
+    helloWorldObject.helloWorldMethod();
+}
+}
